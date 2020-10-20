@@ -1,0 +1,62 @@
+.search {
+    background-color: blue;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.input {
+    font-size: 1.5rem;
+    border-radius: 5px;
+    width: 50%;
+}
+
+.input:focus,
+.button:focus {
+    outline: none;
+}
+
+.button {
+    font-size: 1.5rem;
+    border-radius: 5px;
+    background-color: #999;
+}
+
+.beer {
+    height: 100vh;
+}
+
+.beer-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 1rem;
+}
+
+.beer-item {
+    display: flex;
+    background-color: #eee;
+}
+
+.beer-item-left {
+    height: 200px;
+}
+
+.beer-item-left img {
+    height: 100%;
+    padding: 1rem;
+}
+
+.beer-item-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.beer-item-right h3 {
+    font-size: 1.5rem;
+}
+
+.beer-item-right p {
+    font-size: 1rem;
+}
+
