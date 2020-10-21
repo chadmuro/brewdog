@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import punk from './punk';
 import './Search.css';
 
 const Search = () => {
@@ -9,7 +10,7 @@ const Search = () => {
 	const onFormSubmit = async (e) => {
 		e.preventDefault();
 
-		const { data } = await axios.get('https://api.punkapi.com/v2/beers', {
+		const { data } = await punk.get('/', {
 			params: {
 				beer_name: beer,
 			},
