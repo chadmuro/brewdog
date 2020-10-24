@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/brewdog/static/css/main.24c6d3b4.chunk.css",
-    "main.js": "/brewdog/static/js/main.97bf19a4.chunk.js",
-    "main.js.map": "/brewdog/static/js/main.97bf19a4.chunk.js.map",
+    "main.js": "/brewdog/static/js/main.a9455c5a.chunk.js",
+    "main.js.map": "/brewdog/static/js/main.a9455c5a.chunk.js.map",
     "runtime-main.js": "/brewdog/static/js/runtime-main.dd306e99.js",
     "runtime-main.js.map": "/brewdog/static/js/runtime-main.dd306e99.js.map",
     "static/js/2.6dbb4f9b.chunk.js": "/brewdog/static/js/2.6dbb4f9b.chunk.js",
     "static/js/2.6dbb4f9b.chunk.js.map": "/brewdog/static/js/2.6dbb4f9b.chunk.js.map",
     "index.html": "/brewdog/index.html",
-    "precache-manifest.7fb8dbe54dc89df4e1102481402c028a.js": "/brewdog/precache-manifest.7fb8dbe54dc89df4e1102481402c028a.js",
+    "precache-manifest.53f88eef22cda22ed3bfe6247eb86f15.js": "/brewdog/precache-manifest.53f88eef22cda22ed3bfe6247eb86f15.js",
     "service-worker.js": "/brewdog/service-worker.js",
     "static/css/main.24c6d3b4.chunk.css.map": "/brewdog/static/css/main.24c6d3b4.chunk.css.map",
     "static/js/2.6dbb4f9b.chunk.js.LICENSE.txt": "/brewdog/static/js/2.6dbb4f9b.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.dd306e99.js",
     "static/js/2.6dbb4f9b.chunk.js",
     "static/css/main.24c6d3b4.chunk.css",
-    "static/js/main.97bf19a4.chunk.js"
+    "static/js/main.a9455c5a.chunk.js"
   ]
 }

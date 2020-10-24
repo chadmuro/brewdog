@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b73a5e8a3628e2006ef9c73c169d1a20",
+    "revision": "b0dfd68d2e80632a0111e4fbbe203c8b",
     "url": "/brewdog/index.html"
   },
   {
-    "revision": "12358f8994f886801107",
+    "revision": "a435d059e0b16c88519f",
     "url": "/brewdog/static/css/main.24c6d3b4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brewdog/static/js/2.6dbb4f9b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12358f8994f886801107",
-    "url": "/brewdog/static/js/main.97bf19a4.chunk.js"
+    "revision": "a435d059e0b16c88519f",
+    "url": "/brewdog/static/js/main.a9455c5a.chunk.js"
   },
   {
     "revision": "c55feef719db27b36856",
