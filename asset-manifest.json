@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/brewdog/static/css/main.24c6d3b4.chunk.css",
+    "main.js": "/brewdog/static/js/main.97bf19a4.chunk.js",
+    "main.js.map": "/brewdog/static/js/main.97bf19a4.chunk.js.map",
+    "runtime-main.js": "/brewdog/static/js/runtime-main.dd306e99.js",
+    "runtime-main.js.map": "/brewdog/static/js/runtime-main.dd306e99.js.map",
+    "static/js/2.6dbb4f9b.chunk.js": "/brewdog/static/js/2.6dbb4f9b.chunk.js",
+    "static/js/2.6dbb4f9b.chunk.js.map": "/brewdog/static/js/2.6dbb4f9b.chunk.js.map",
+    "index.html": "/brewdog/index.html",
+    "precache-manifest.7fb8dbe54dc89df4e1102481402c028a.js": "/brewdog/precache-manifest.7fb8dbe54dc89df4e1102481402c028a.js",
+    "service-worker.js": "/brewdog/service-worker.js",
+    "static/css/main.24c6d3b4.chunk.css.map": "/brewdog/static/css/main.24c6d3b4.chunk.css.map",
+    "static/js/2.6dbb4f9b.chunk.js.LICENSE.txt": "/brewdog/static/js/2.6dbb4f9b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/brewdog/static/media/brewdog.e6e9e33a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd306e99.js",
+    "static/js/2.6dbb4f9b.chunk.js",
+    "static/css/main.24c6d3b4.chunk.css",
+    "static/js/main.97bf19a4.chunk.js"
+  ]
+}
