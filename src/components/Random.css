@@ -20,7 +20,7 @@
     align-items: center;
     border: 1px solid #333;
     margin: 1rem;
-    background-color: #999;
+    background-color: #eee;
     text-align: center;
 }
 
@@ -38,6 +38,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 1rem;
 }
 
 .random-right h3 {
@@ -50,4 +51,41 @@
 
 .random-right p {
     font-size: 1rem;
+}
+
+.random-title {
+    margin-bottom: 2.5rem;
+}
+
+.random-info {
+    margin: 2.5rem 0;
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+}
+
+@media only screen and (max-width: 500px) {
+    .random-button {
+        font-size: 1rem;
+    }
+
+    .random-showcase {
+        margin: 0;
+    }
+
+    .random-left {
+        height: 20rem;
+    }
+
+    .random-image {
+        padding: 1rem;
+    }
+
+    .random-title {
+        margin-bottom: 1.5rem;
+    }
+
+    .random-info {
+        margin: 1.5rem 0;
+    }
 }

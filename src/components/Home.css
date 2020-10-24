@@ -1,0 +1,27 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 92vh;
+}
+
+.home-show {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.home-title {
+    font-size: 4rem;
+    padding: 1rem;
+
+}
+
+.home-description {
+    font-size: 2rem;
+    padding: 1rem;
+    text-align: center;
+}
