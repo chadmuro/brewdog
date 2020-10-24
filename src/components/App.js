@@ -10,13 +10,13 @@ const App = () => {
     return (
         <div>
             <Header />
-            <Route path="/">
+            <Route path="/brewdog/">
                 <Home />
             </Route>
-            <Route path="/search">
+            <Route path="/brewdog/search">
                 <Search />
             </Route>
-            <Route path="/random">
+            <Route path="/brewdog/random">
                 <Random />
             </Route>
         </div>

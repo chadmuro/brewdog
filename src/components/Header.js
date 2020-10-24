@@ -5,13 +5,13 @@ import './Header.css'
 const Header = () => {
     return (
         <div className="header">
-            <Link href="/" className="header-item">
+            <Link href="/brewdog/" className="header-item">
                 Home
             </Link>
-            <Link href="/search" className="header-item">
+            <Link href="/brewdog/search" className="header-item">
                 Search
             </Link>
-            <Link href="/random" className="header-item">
+            <Link href="/brewdog/random" className="header-item">
                 Random
             </Link>
         </div>
