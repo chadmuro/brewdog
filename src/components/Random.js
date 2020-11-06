@@ -2,8 +2,6 @@ import React, { useState, useEffect } from 'react';
 import punk from './punk';
 import './Random.css';
 
-
-
 const Random = () => {
 	const [random, setRandom] = useState([]);
 	const [food, setFood] = useState([]);
